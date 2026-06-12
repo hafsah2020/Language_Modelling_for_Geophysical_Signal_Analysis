@@ -185,4 +185,4 @@ Corrections, better well log datasets, or alternative geological interpretations
 
 Course curriculum sourced from [Google DeepMind via Google Skillboost](https://www.skills.google/collections/deepmind). All original course materials, lab structures, and exercises remain the intellectual property of Google DeepMind.
 
-Well log interpretation extensions, petrophysical adaptations, and original notebooks in this repository are original work by [Hafsah Anibaba].
+Well log interpretation extensions, petrophysical adaptations, and original notebooks in this repository are original work by [Hafsah Anibaba](https://github.com/hafsah2020).
