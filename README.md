@@ -14,30 +14,7 @@ Personal study notes following the [Google DeepMind Language Modelling course](h
 │
 ├── notebooks/
 │   ├── 01_probability_distributions/
-│   ├── 02_ngrams/
-│   ├── 03_ngram_vs_transformer/
-│   ├── 04_dataset_preparation/
-│   ├── 05_train_slm/
-│   ├── 06_preprocessing/
-│   ├── 07_character_word_tokenization/
-│   ├── 08_subword_tokenization/
-│   ├── 09_bpe_tokenizer/
-│   ├── 10_embeddings/
-│   ├── 11_slm_with_bpe/
-│   ├── 12_signal_vs_noise/
-│   ├── 13_single_layer_nn/
-│   ├── 14_complex_data_separation/
-│   ├── 15_mlp_design/
-│   ├── 16_hyperparameter_tuning/
-│   ├── 17_overfitting/
-│   ├── 18_gradients/
-│   ├── 19_keras_training/
-│   ├── 20_attention_weights/
-│   ├── 21_attention_mechanism/
-│   ├── 22_masked_multihead_attention/
-│   ├── 23_positional_embeddings/
-│   └── 24_transformer_parameters/
-│
+│   
 └── src/
     ├── tokenizers/
     ├── models/
